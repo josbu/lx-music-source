@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-label="Star History">
+<title>Star History for pdone/lx-music-source</title>
+<desc>从 2026-08-04 到 2026-08-04，star 数从 7597 增长到 7597</desc>
+<style>
+  .bg { fill: #ffffff; }
+  .grid { stroke: #e5e7eb; stroke-width: 1; }
+  .axis { stroke: #9ca3af; stroke-width: 1; }
+  .area { fill: rgba(59, 130, 246, 0.15); }
+  .line { fill: none; stroke: #3b82f6; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+  .dot { fill: #3b82f6; }
+  .tlabel { fill: #6b7280; font-family: -apple-system, sans-serif; font-size: 11px; }
+  .title { fill: #111827; font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; }
+    .grid { stroke: #21262d; }
+    .axis { stroke: #484f58; }
+    .area { fill: rgba(58, 132, 255, 0.18); }
+    .line { stroke: #58a6ff; }
+    .dot { fill: #58a6ff; }
+    .tlabel { fill: #8b949e; }
+    .title { fill: #c9d1d9; }
+  }
+</style>
+<rect class="bg" width="720" height="260"/>
+<text class="title" x="56" y="16">pdone/lx-music-source · Star History</text>
+<line class="grid" x1="56" y1="224.00" x2="696" y2="224.00"/>
+<line class="grid" x1="56" y1="224.00" x2="696" y2="224.00"/>
+<line class="grid" x1="56" y1="24.00" x2="696" y2="24.00"/>
+<line class="grid" x1="56" y1="24.00" x2="696" y2="24.00"/>
+<line class="grid" x1="56" y1="24.00" x2="696" y2="24.00"/>
+<text class="tlabel" x="48" y="227.00" text-anchor="end">7597</text>
+<text class="tlabel" x="48" y="227.00" text-anchor="end">7597</text>
+<text class="tlabel" x="48" y="27.00" text-anchor="end">7598</text>
+<text class="tlabel" x="48" y="27.00" text-anchor="end">7598</text>
+<text class="tlabel" x="48" y="27.00" text-anchor="end">7598</text>
+<line class="axis" x1="56" y1="224" x2="696" y2="224"/>
+<path class="area" d="M 376.00 224.00 L 376.00 224.00 L 376.00 224.00 Z"/>
+<path class="line" d="M 376.00 224.00"/>
+<circle class="dot" cx="376.00" cy="224.00" r="2.5"/>
+<text class="tlabel" x="376.00" y="244" text-anchor="middle">08-04</text>
+<text class="tlabel" x="376.00" y="244" text-anchor="middle">08-04</text>
+<text class="tlabel" x="376.00" y="244" text-anchor="middle">08-04</text>
+<text class="tlabel" x="696" y="244" text-anchor="end">7597 ★</text>
+</svg>

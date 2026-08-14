@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-label="Star History">
 <title>Star History for pdone/lx-music-source</title>
-<desc>从 2026-08-04 到 2026-08-13，star 数从 7597 增长到 7900</desc>
+<desc>从 2026-08-04 到 2026-08-14，star 数从 7597 增长到 7935</desc>
 <style>
   .bg { fill: #ffffff; }
   .grid { stroke: #e5e7eb; stroke-width: 1; }
@@ -24,30 +24,31 @@
 <rect class="bg" width="720" height="260"/>
 <text class="title" x="56" y="16">pdone/lx-music-source · Star History</text>
 <line class="grid" x1="56" y1="224.00" x2="696" y2="224.00"/>
-<line class="grid" x1="56" y1="173.83" x2="696" y2="173.83"/>
-<line class="grid" x1="56" y1="123.67" x2="696" y2="123.67"/>
-<line class="grid" x1="56" y1="74.17" x2="696" y2="74.17"/>
+<line class="grid" x1="56" y1="173.70" x2="696" y2="173.70"/>
+<line class="grid" x1="56" y1="124.00" x2="696" y2="124.00"/>
+<line class="grid" x1="56" y1="73.70" x2="696" y2="73.70"/>
 <line class="grid" x1="56" y1="24.00" x2="696" y2="24.00"/>
 <text class="tlabel" x="48" y="227.00" text-anchor="end">7597</text>
-<text class="tlabel" x="48" y="176.83" text-anchor="end">7673</text>
-<text class="tlabel" x="48" y="126.67" text-anchor="end">7749</text>
-<text class="tlabel" x="48" y="77.17" text-anchor="end">7824</text>
-<text class="tlabel" x="48" y="27.00" text-anchor="end">7900</text>
+<text class="tlabel" x="48" y="176.70" text-anchor="end">7682</text>
+<text class="tlabel" x="48" y="127.00" text-anchor="end">7766</text>
+<text class="tlabel" x="48" y="76.70" text-anchor="end">7851</text>
+<text class="tlabel" x="48" y="27.00" text-anchor="end">7935</text>
 <line class="axis" x1="56" y1="224" x2="696" y2="224"/>
-<path class="area" d="M 56.00 224.00 L 56.00 224.00 L 127.11 198.92 L 198.22 180.44 L 269.33 157.33 L 340.44 142.15 L 411.56 127.63 L 482.67 101.23 L 553.78 73.50 L 624.89 45.12 L 696.00 24.00 L 696.00 224.00 Z"/>
-<path class="line" d="M 56.00 224.00 L 127.11 198.92 L 198.22 180.44 L 269.33 157.33 L 340.44 142.15 L 411.56 127.63 L 482.67 101.23 L 553.78 73.50 L 624.89 45.12 L 696.00 24.00"/>
+<path class="area" d="M 56.00 224.00 L 56.00 224.00 L 120.00 201.51 L 184.00 184.95 L 248.00 164.24 L 312.00 150.63 L 376.00 137.61 L 440.00 113.94 L 504.00 89.09 L 568.00 63.64 L 632.00 44.71 L 696.00 24.00 L 696.00 224.00 Z"/>
+<path class="line" d="M 56.00 224.00 L 120.00 201.51 L 184.00 184.95 L 248.00 164.24 L 312.00 150.63 L 376.00 137.61 L 440.00 113.94 L 504.00 89.09 L 568.00 63.64 L 632.00 44.71 L 696.00 24.00"/>
 <circle class="dot" cx="56.00" cy="224.00" r="2.5"/>
-<circle class="dot" cx="127.11" cy="198.92" r="2.5"/>
-<circle class="dot" cx="198.22" cy="180.44" r="2.5"/>
-<circle class="dot" cx="269.33" cy="157.33" r="2.5"/>
-<circle class="dot" cx="340.44" cy="142.15" r="2.5"/>
-<circle class="dot" cx="411.56" cy="127.63" r="2.5"/>
-<circle class="dot" cx="482.67" cy="101.23" r="2.5"/>
-<circle class="dot" cx="553.78" cy="73.50" r="2.5"/>
-<circle class="dot" cx="624.89" cy="45.12" r="2.5"/>
+<circle class="dot" cx="120.00" cy="201.51" r="2.5"/>
+<circle class="dot" cx="184.00" cy="184.95" r="2.5"/>
+<circle class="dot" cx="248.00" cy="164.24" r="2.5"/>
+<circle class="dot" cx="312.00" cy="150.63" r="2.5"/>
+<circle class="dot" cx="376.00" cy="137.61" r="2.5"/>
+<circle class="dot" cx="440.00" cy="113.94" r="2.5"/>
+<circle class="dot" cx="504.00" cy="89.09" r="2.5"/>
+<circle class="dot" cx="568.00" cy="63.64" r="2.5"/>
+<circle class="dot" cx="632.00" cy="44.71" r="2.5"/>
 <circle class="dot" cx="696.00" cy="24.00" r="2.5"/>
 <text class="tlabel" x="56.00" y="244" text-anchor="middle">08-04</text>
-<text class="tlabel" x="340.44" y="244" text-anchor="middle">08-08</text>
-<text class="tlabel" x="696.00" y="244" text-anchor="middle">08-13</text>
-<text class="tlabel" x="696" y="244" text-anchor="end">7900 ★</text>
+<text class="tlabel" x="376.00" y="244" text-anchor="middle">08-09</text>
+<text class="tlabel" x="696.00" y="244" text-anchor="middle">08-14</text>
+<text class="tlabel" x="696" y="244" text-anchor="end">7935 ★</text>
 </svg>
